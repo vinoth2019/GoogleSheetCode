@@ -1,0 +1,17 @@
+li{
+    list-style-type: none;
+}
+main{
+    padding: 15px;
+}
+
+.name-image{
+    display: flex;
+    align-items: center;
+    margin-bottom: 6px;
+    color: #04537d;
+    font-weight: bold;
+}
+.name-image img{
+    margin-right: 8px;
+}
